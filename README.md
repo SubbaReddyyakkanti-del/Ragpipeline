@@ -96,8 +96,8 @@ ollama run gemma2:2b
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/swetha7216/Rag-pipeline.git
-cd Rag-pipeline
+git clone https://github.com/subbareddyyakkanti/Ragpipeline.git
+cd Ragpipeline
 ```
 
 ### 3️⃣ Create Virtual Environment
@@ -194,6 +194,5 @@ Contributions are welcome! Fork the repository and submit a pull request.
 
 ### Created by & Contact
 
-**Name**: Sweetha Angam
-**Email**: swethaangam@gmail.com
-**GitHub**: https://github.com/swetha7216
+**Name**: SubbaReddy Yakkanti
+**Email**: rohitreddyyakkanti27@gmail.com
